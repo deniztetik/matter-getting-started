@@ -1,5 +1,4 @@
-// var Matter = require('matter-js');
-// var matter = Matter();
+// from "Getting Started" section of matter-js repo
 
 // module aliases
 
