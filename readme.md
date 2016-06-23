@@ -1,3 +1,3 @@
 ### To Run
 
-Open index.html
+Open `index.html` and enjoy.
