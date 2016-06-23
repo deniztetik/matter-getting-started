@@ -1,3 +1,4 @@
-npm install -g bower
+  npm install -g bower
 
-In the repo, run: bower install
+In the repo, run:
+  bower install
